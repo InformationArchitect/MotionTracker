@@ -1,0 +1,85 @@
+{
+  "_from": "nativescript-accelerometer-advanced",
+  "_id": "nativescript-accelerometer-advanced@2.0.8",
+  "_inBundle": false,
+  "_integrity": "sha512-DHojEFW2JY85UyTapNXWgpInZEJjgksYvVVIypO46ZtvmDb3qMKbXi8GqNUm6Wb12pbY4jKBD7XmQo7bf0mHJA==",
+  "_location": "/nativescript-accelerometer-advanced",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-accelerometer-advanced",
+    "name": "nativescript-accelerometer-advanced",
+    "escapedName": "nativescript-accelerometer-advanced",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-accelerometer-advanced/-/nativescript-accelerometer-advanced-2.0.8.tgz",
+  "_shasum": "dbf999590f62a83337d5fb42b3d6207fb9e79236",
+  "_spec": "nativescript-accelerometer-advanced",
+  "_where": "C:\\Users\\nadia\\Desktop\\HackNC\\MotionTracker",
+  "author": {
+    "name": "Sktzoootech",
+    "email": "sktzoootech@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sktzoootech/native-script-accelerometer.git/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Sktzoootech",
+      "email": "sktzoootech@gmail.com"
+    },
+    {
+      "name": "Alexander Vakrilov",
+      "email": "alexander.vakrilov@gmail.com"
+    },
+    {
+      "name": "Shawn Pavel",
+      "email": "shawn@liveshopper.com"
+    }
+  ],
+  "deprecated": false,
+  "description": "NativeScript accelerometer plugin.",
+  "devDependencies": {
+    "tns-core-modules": ">2.0.0",
+    "tns-platform-declarations": ">2.0.0",
+    "typescript": ">2.0.6"
+  },
+  "homepage": "https://github.com/sktzoootech/native-script-accelerometer",
+  "keywords": [
+    "nativescript",
+    "physics",
+    "game"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "nativescript-accelerometer-advanced",
+  "nativescript": {
+    "platforms": {
+      "ios": "3.0.0",
+      "android": "3.0.0"
+    },
+    "tns-ios": {
+      "version": "3.0.0"
+    }
+  },
+  "peerDependencies": {
+    "tns-core-modules": ">2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sktzoootech/native-script-accelerometer.git"
+  },
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.8"
+}

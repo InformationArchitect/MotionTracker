@@ -1,0 +1,9 @@
+{
+    "nativescript-accelerometer-advanced": true,
+    "nativescript-geolocation": true,
+    "nativescript-theme-core": true,
+    "nativescript-websockets": true,
+    "tns-core-modules": true,
+    "nativescript-permissions": true,
+    "tns-core-modules-widgets": true
+}

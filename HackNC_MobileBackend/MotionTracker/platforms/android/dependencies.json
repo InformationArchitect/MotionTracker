@@ -1,0 +1,30 @@
+[
+    {
+        "name": "nativescript-accelerometer-advanced",
+        "directory": "..\\..\\node_modules\\nativescript-accelerometer-advanced"
+    },
+    {
+        "name": "nativescript-geolocation",
+        "directory": "..\\..\\node_modules\\nativescript-geolocation"
+    },
+    {
+        "name": "nativescript-theme-core",
+        "directory": "..\\..\\node_modules\\nativescript-theme-core"
+    },
+    {
+        "name": "nativescript-websockets",
+        "directory": "..\\..\\node_modules\\nativescript-websockets"
+    },
+    {
+        "name": "tns-core-modules",
+        "directory": "..\\..\\node_modules\\tns-core-modules"
+    },
+    {
+        "name": "nativescript-permissions",
+        "directory": "..\\..\\node_modules\\nativescript-permissions"
+    },
+    {
+        "name": "tns-core-modules-widgets",
+        "directory": "..\\..\\node_modules\\tns-core-modules-widgets"
+    }
+]

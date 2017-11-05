@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f32a31f3449f318d8f76b627644a19531285a0d6">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-location-11.4.0_b2f388ed4015bc878e9cc2369902f866e80ea9bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_ec3dc23d13c41e3be8b3a72517172a13c561ca1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-tasks-11.4.0_e1690f4a3ae3e1343bbc44fe379b9a22aa539c93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-25.2.0_a67752e4623f6d079e97a6e9982e5f919a3ddcbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-24.2.1_daa99faee152e0e5fd5314eea1fdcfad9bf4656f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f34896233f3fe6ecb75025e06b33980cee8239a">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-base-11.4.0_35e8fcfcf2d730708ed933e0cf7db378caf80b5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-24.2.1_92a968021a6575428b971ca3b9eb6fc841a58ce0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-24.2.1_afe0ff729727377e51ac3d1fae4624405c4bd9c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-24.2.1_ff9657864b042686d01a93271e8ffadeabdfd164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-25.2.0_282ec454b2fc62afdbdd8993ff723eab5365f0e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\node_modules\nativescript-websockets\platforms\android\libs\java_websocket.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6903b0aa522034863e09e3d8d8bddb137de3c436">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\java_websocket_6d31ad86d5da311f2d049de2ee3019bac47cad7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-25.2.0_403e0516a71ec0f9beaca5aa5d5b26bb6e73613d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-24.2.1_b05ff2388c99156f5062f27de816c0604390f760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-25.2.0_211b411e4b74bd1a1c2f17ca7c18e40409ea454a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\nativescript-optimized\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-nativescript-optimized_c202ed6a2bb73828ad2ea84a41c8cca0335fd326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-24.2.1_d1d836eee343dea94e93d0b0d1a5d5cfbb07fc00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-25.2.0_4218e5805705f5efb5f2d51fb4cdceee5642656a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-24.2.1_d176ee176c503357886c8ae0eca58c96b58435a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-24.2.1_297f9bd0010168c730ace9f0bce63fb27cb22065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_46bbc693f846f169b4a31f7565a7416e60b7e4d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_c149ddcdeb1becefd37e7a6d02d7c68e8ae37b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="453427e529ccd47ef859c7d739a59ab32f7f14ee">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-basement-11.4.0_49d39bdd769abd787934e2de7bff707465c80e01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_0f4dc9b7ab0a48e2a02bfc190a6b4871acae794f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-24.2.1_d552a507b43d5defb7cddfeee0cb9baa3edc90c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_b7178ceb0daf5182327c57fb5091bb14bbbdae2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-24.2.1_8ac095497c481500a489600a07c54f309198bdba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-24.2.1_0b3e638aab8238b9c444ff574fd58621850575bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-24.2.1_156e737724a5d65ed5b0690e45f8658a4ac22c90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_acb8b4cff419808560148457d768cf5a43909aab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-25.2.0_7a46eb89e07d8b99152bbde9ea969c36fa35d708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\nadia\Desktop\HackNC\MotionTracker\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-25.2.0_a64462db3a646261a89d995d86d46bf291a35ea7.jar" />
+    </item>
+
+</items>
